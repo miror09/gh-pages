@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MirIS",
+    "description": "",
+    "home_page_url": "https://miror09.github.io/gh-pages",
+    "feed_url": "https://miror09.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "miris"
+    },
+    "items": [
+        {
+            "id": "https://miror09.github.io/gh-pages/hello-world.html",
+            "url": "https://miror09.github.io/gh-pages/hello-world.html",
+            "title": "Hello World!",
+            "author": {
+                "name": "miris"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-16T15:35:36+01:00",
+            "date_modified": "2025-01-16T15:35:36+01:00"
+        }
+    ]
+}

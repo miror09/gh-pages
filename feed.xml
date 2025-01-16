@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MirIS</title>
+    <link href="https://miror09.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://miror09.github.io/gh-pages" />
+    <updated>2025-01-16T15:35:36+01:00</updated>
+    <author>
+        <name>miris</name>
+    </author>
+    <id>https://miror09.github.io/gh-pages</id>
+
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>miris</name>
+        </author>
+        <link href="https://miror09.github.io/gh-pages/hello-world.html"/>
+        <id>https://miror09.github.io/gh-pages/hello-world.html</id>
+
+        <updated>2025-01-16T15:35:36+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
